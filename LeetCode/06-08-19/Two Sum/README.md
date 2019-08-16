@@ -22,5 +22,6 @@ return [0, 1]
                            unordered_map
                            and we came to know that HashTable can insert,delete and search an element in O(1)
                            
-              And through this we solved the problem in time complexity O(n)  
+              And through this we solved the problem in time complexity O(n) 
+## [solution1:](./sol_1.cpp) 
 [title]:https://leetcode.com/problems/two-sum/
