@@ -10,4 +10,4 @@ It contains the daily reports of LeetCode
 ## 13-08-19[Remove Element](./Remove%20Element)     [Search Insert Position](.Search%20Insert%20Position)
 ## 14-08-19[Add Binary](./Add%20Binary)          [Sqrt(x)](./Sqrt(x))
 ## 15-08-19[Power of Two](./Power%20of%20Two)           [Rotate Array](./Rotate%20Array)
-## [sort a stack]()
+## [sort a stack](https://github.com/Rahul2IUC/Coding/blob/master/geeksforgeeks/sort%20a%20stack/solution1.cpp)
