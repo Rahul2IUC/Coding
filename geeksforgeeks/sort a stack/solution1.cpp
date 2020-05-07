@@ -1,12 +1,4 @@
-/*The structure of the class is
-class SortedStack{
-public:
-	stack<int> s;
-	void sort();
-};
-*/
-
-/* The below method sorts the stack s 
+/* The below method sorts the stack s
 you are required to complete the below method */
 void SortedStack :: sort()
 {
@@ -31,5 +23,5 @@ void SortedStack :: sort()
   for(int l=n;l>=0;l--){
        cout<<arr[l]<<" ";
    }
-  
+
 }
