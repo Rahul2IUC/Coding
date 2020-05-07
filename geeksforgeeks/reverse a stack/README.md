@@ -1,4 +1,4 @@
-# Reverse a string using Stack[Solution](./solution.cpp)
+# Reverse a string using Stack                        [Solution](./solution.cpp)
 An string of words is given, the task is to reverse the string using stack.
 
 #### Input Format:
