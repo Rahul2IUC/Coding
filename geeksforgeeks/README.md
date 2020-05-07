@@ -1,3 +1,3 @@
 # GeeksforGeeks
-## [sort a stack]()
-## [reverse a string using stack]()
+## [sort a stack](./sort%20a%20stack)
+## [reverse a string using stack](./reverse%20a%20stack)
