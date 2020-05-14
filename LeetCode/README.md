@@ -11,3 +11,4 @@
 ### 231.[Power of Two](./Power%20of%20Two)
 ### 189.[Rotate Array](./Rotate%20Array)
 ### 20.[Valid Parentheses](./Valid%20Parentheses)
+### 42.[Trapping Rain Water](./Trapping%20Rain%20Water)
