@@ -12,3 +12,4 @@
 ### 189.[Rotate Array](./Rotate%20Array)
 ### 20.[Valid Parentheses](./Valid%20Parentheses)
 ### 42.[Trapping Rain Water](./Trapping%20Rain%20Water)
+### 707.[Design Linked List](./Design%20Linked%20List)
